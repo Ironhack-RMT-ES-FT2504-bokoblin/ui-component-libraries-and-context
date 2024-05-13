@@ -1,10 +1,12 @@
-import React from 'react'
+import img1 from "../../assets/img1.jpg"
 
 function BookDetails() {
   return (
     <div>
       
       <h1>Book Details</h1>
+
+      <img src={img1} alt="cover" width={200} height={360}/>
 
       <h3>Read the Book</h3>
 

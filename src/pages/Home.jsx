@@ -1,4 +1,3 @@
-import React from 'react'
 
 import img1 from "../assets/img1.jpg"
 import img2 from "../assets/img2.jpg"
@@ -12,9 +11,9 @@ function Home() {
 
       <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
 
-      <img src={img1} alt="cover" width={120}/>
-      <img src={img2} alt="cover" width={120}/>
-      <img src={img3} alt="cover" width={120}/>
+      <img src={img1} alt="cover" width={120} height={200}/>
+      <img src={img2} alt="cover" width={120} height={200}/>
+      <img src={img3} alt="cover" width={120} height={200}/>
 
     </div>
   )
