@@ -28,3 +28,9 @@ function MyNavbar() {
 }
 
 export default MyNavbar
+
+// similar que he trabajado en alguna funcionalidad
+console.log("patata")
+function miFuncion() {
+  /* .... */
+}
