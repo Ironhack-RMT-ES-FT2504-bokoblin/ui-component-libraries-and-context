@@ -5,3 +5,25 @@
 .mi-boton {
   color: purple !important
 }
+
+.dark-theme {
+  background-color: rgb(20, 20, 20);
+  color: white;
+  min-height: 100vh;
+}
+
+.light-theme {
+  background-color: rgb(230, 230, 230);
+  color: black;
+  min-height: 100vh;
+}
+
+.light-btn {
+  color: green !important;
+  border-color: green !important;
+}
+
+.dark-btn {
+  color: red !important;
+  border-color: red !important;
+}
